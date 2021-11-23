@@ -1,0 +1,1889 @@
+{
+  "contentful": [
+    {
+      "shortDesc": "Peer-manned helpline open 10am - 10pm daily for LGBTQ+ callers. ",
+      "longDesc": "At Switchboard we provide an information, support and referral service for lesbians, gay men and bisexual and trans people – and anyone considering issues around their sexuality and/or gender identity.",
+      "link": "https://switchboard.lgbt/how-we-can-help",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/67A7eI5gwHxD48X84TDFdx/46c9b6ddf1f4c75fcced18576bcc5818/Switchboard.png",
+        "imageTitle": "Switchboard"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "7nuD2pNXzpiKYhKpgbeX5d",
+          "organisation": "Switchboard",
+          "contactNumber": "0300 330 0630"
+        }
+      ],
+      "id": "4g3SwWnaseAz25jXlJADHt",
+      "title": "Switchboard",
+      "contentTypeId": "resource",
+      "slug": "switchboard"
+    },
+    {
+      "shortDesc": "THINGS CAN GET TOUGH, BUT WE CAN HELP YOU GET YOUR LIFE BACK.",
+      "longDesc": "Livechat and helpline open 5pm - midnight, 365 days a year. ",
+      "link": "https://www.thecalmzone.net/help/get-help/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/fKwiKoIUOFnNMrF6I8h6g/5ad6e73f740b5dd23a515db121711044/Calm.jpg",
+        "imageTitle": "Calm"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "3pSvtYExhD94q0lUCbP4Ym",
+          "organisation": "Calm",
+          "contactNumber": "0800 58 58 58"
+        }
+      ],
+      "id": "2Hz32JrSEi8LoY1u0QERvM",
+      "title": "CALM (Campaign Against Living Miserably)",
+      "contentTypeId": "resource",
+      "slug": "calm-campaign-against-living-miserably"
+    },
+    {
+      "shortDesc": "We're here to listen",
+      "longDesc": "A confidential, free phoneline for anyone in Scotland over the age of 16, feeling low, anxious or depressed. You can call them (6pm Friday - 6am Monday) or (6pm to 2am on weekdays.)",
+      "link": "https://breathingspace.scot/how-we-can-help/need-to-talk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5IM5tFHqEIBfb81p1UT3Wd/01e557f3512a3a7771b10e1592d8c346/Breathing-Space.jpg",
+        "imageTitle": "Breathing-Space"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "2qpVSHo7pIN90HqJlXfeYR",
+          "organisation": "Breathing Space",
+          "contactNumber": "0800 83 85 87"
+        }
+      ],
+      "id": "bvITRO3VXFY6368VuAz0w",
+      "title": "Breathing Space",
+      "contentTypeId": "resource",
+      "slug": "breathing-space"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "4jC2tp768xIo5Ocg6jjRTw",
+      "title": "Mental health & wellbeing",
+      "contentTypeId": "topic",
+      "slug": "mental-health-and-wellbeing"
+    },
+    {
+      "shortDesc": "If you need someone to talk to, we listen. We won't judge or tell you what to do.",
+      "longDesc": "To talk about anything that is upsetting you, you can contact Samaritans 24 hours a day, 365 days a year. You can call 116 123 (free from any phone).",
+      "link": "https://www.samaritans.org/scotland/how-we-can-help/contact-samaritan/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6bKzUhvmfTj5ya7ZC1Znei/33aaa7e573f952ea1a5257b8f2a90785/samaritans.png",
+        "imageTitle": "samaritans"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "6sFaG6Ld14CFbsCaONcFpl",
+          "organisation": "Samaritans",
+          "contactNumber": "116 123"
+        }
+      ],
+      "id": "7d5gyCCcoV2VTQeRsw2dAE",
+      "title": "Samaritans",
+      "contentTypeId": "resource",
+      "slug": "samaritans"
+    },
+    {
+      "shortDesc": "PAPYRUS is the national charity dedicated to the prevention of young suicide.",
+      "longDesc": "Confidential suicide prevention advice for young people open 9am - midnight 365 days of the year. ",
+      "link": "https://www.papyrus-uk.org/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3xMK8OGr450JnN3FEy7Vq8/47a4dca05e724d1fde2e83246e848b30/papyrus.webp",
+        "imageTitle": "papyrus"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "193JkKBqvMTvEvCA67OtLA",
+          "organisation": "Papyrus",
+          "contactNumber": "0800 068 4141"
+        }
+      ],
+      "id": "aMfs4ymsQqLM7qIFqJzxj",
+      "title": "Papyrus (Prevention of Young Suicide)",
+      "contentTypeId": "resource",
+      "slug": "papyrus-prevention-of-young-suicide"
+    },
+    {
+      "shortDesc": "24/7 helpline offering a supportive listening service to anyone with thoughts of suicide.",
+      "longDesc": "24/7 helpline offering a supportive listening service to anyone with thoughts of suicide.",
+      "link": "https://www.spbristol.org/NSPHUK",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5OeCoYK1LDb40gGzfJpyga/a6a2829ffabd2dc01fd7d67d9415dcac/NSPH.jpeg",
+        "imageTitle": "NSPH"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "7iTuGip53KnnFgNv6VqSSw",
+          "organisation": "National Suicide Prevention Hotline UK",
+          "contactNumber": "0800 689 5652"
+        }
+      ],
+      "id": "4stSmxBopBySK0MyiA2IDT",
+      "title": "National Suicide Prevention Hotline UK",
+      "contentTypeId": "resource",
+      "slug": "national-suicide-prevention-hotline-uk"
+    },
+    {
+      "shortDesc": "Our team is online to offer you free, confidential advice with drugs or alcohol.",
+      "longDesc": "Confidential online chat online Monday - Friday 9am to 9pm, Saturday - Sunday 10am to 4pm. You can still message the service outside of these hours, they will get back to you as soon as possible.",
+      "link": "https://www.wearewithyou.org.uk/help-and-advice/about-our-online-chat/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6oiAEcNTNXruonwTjdWg9z/67f97c011c4c80b6eaa98bb35164d61b/WAWY1.png",
+        "imageTitle": "WAWY1"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [],
+      "id": "zmVzVG0iNQyc6bLmRK3A5",
+      "title": "We Are With You ",
+      "contentTypeId": "resource",
+      "slug": "we-are-with-you-helpline"
+    },
+    {
+      "shortDesc": "Here for you 24/7",
+      "longDesc": "A free, confidential, anonymous text support service. You can text 'SHOUT' to 852258 from wherever you are in the UK.",
+      "link": "https://giveusashout.org/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/1Pr1Wki1F51DN6oXhlZliv/36088110e19b355e524f2821a6a33ac6/Shout.png",
+        "imageTitle": "Shout"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "4etgzzyD9PYHSQxtFtUULj",
+          "organisation": "Shout",
+          "contactNumber": "Text 'SHOUT' to 85258"
+        }
+      ],
+      "id": "58GiiVxT0tbyf6nRMRqeSk",
+      "title": "SHOUT",
+      "contentTypeId": "resource",
+      "slug": "shout"
+    },
+    {
+      "shortDesc": "Lifelink can offer support to anyone who is struggling to cope with everyday stress or is feeling anxious or depressed. ",
+      "longDesc": "Two hour long wellbeing classes delivered virtually. Each session covers life skills aimed at helping yoiu to lead a fulfilling and productive life. Participants can attend as many classes as they link and these are open to everyone with a Glasgow postcode.",
+      "link": "https://www.lifelink.org.uk/wellbeing-classes/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4NRUIanb84qv7QqFb1Tzi4/5261efcdf18e8a5b426d17d24461031a/Lifelink.png",
+        "imageTitle": "Lifelink"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "3tOiUqLRZ6oCU1fo8OREqx",
+      "title": "LifeLink",
+      "contentTypeId": "resource",
+      "slug": "lifelink"
+    },
+    {
+      "shortDesc": "Our mission is to make the world healthier and happier through the super power of calm. ",
+      "longDesc": "A series of ten minute meditations for you to practice.",
+      "link": "https://www.youtube.com/playlist?list=PLgdxvG3Ulbidz8n_l3rZdcAADnDJ6NFHO",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/1tqETumKPTcLsGFqo3m2Qh/83920cefde1e754cc4139adc8eedbe8c/Cat_4_-_Calm.png",
+        "imageTitle": "Cat 4 - Calm"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "7pIATK7c9kM8bmMSHgpWu7",
+      "title": "Calm",
+      "contentTypeId": "resource",
+      "slug": "calm"
+    },
+    {
+      "shortDesc": "Wellbeing services south Glasgow",
+      "longDesc": "A variety of self-help materials and courses based on Cognitive Behavioural Therapy (CBT) to help with all sorts of problems that you may be facing.",
+      "link": "https://www.wellbeing-glasgow.org.uk/video-courses",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6HrOyEJjHPckJBzznbRLJC/c3d7790a0fcf59a0752509757752b69a/Cat_4_-_Wellbeing.png",
+        "imageTitle": "Cat 4 - Wellbeing"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "4hwCqL75hCi10iLu1G2Mwe",
+      "title": "Wellbeing",
+      "contentTypeId": "resource",
+      "slug": "wellbeing"
+    },
+    {
+      "shortDesc": "We're Mind, the mental health charity. We’re fighting for better mental health – for support, for respect, for you.",
+      "longDesc": "A series of videos educating and sharing tips to look after your mental health and wellbeing.",
+      "link": "https://www.youtube.com/channel/UCarWBJYMNqJxgn6n8_htCTQ",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3KZfgtw27kdJIN1iAddRvW/d7c200c08cf9a48a3021e27b73b5de6f/Cat_4_-_Mind.jpg",
+        "imageTitle": "Cat 4 - Mind"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "5yUa2G5JPN8bSv0imUUM4n",
+      "title": "Mind",
+      "contentTypeId": "resource",
+      "slug": "mind"
+    },
+    {
+      "shortDesc": "Smiling Mind",
+      "longDesc": "Smiling Mind is a unique tool developed by psychologists and educators to help bring balance to your life. Practice ten minutes of mindfulness every day.",
+      "link": "https://play.google.com/store/apps/details?id=com.smilingmind.app&hl=en_AU",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/78ZEHN8md1Xp1ANqDLp93m/fcc8cf171c6d17933d6dd41319e8df0a/Cat_2_-_Smiling.jpg",
+        "imageTitle": "Cat 2 - Smiling"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "3Nks78OS2cRxoRF92f3XVE",
+      "title": "Smiling Mind",
+      "contentTypeId": "resource",
+      "slug": "smiling-mind"
+    },
+    {
+      "shortDesc": "Bearable - Symptoms & Mood tracker",
+      "longDesc": "Mood and symptom tracker and health diary with stats. Empowers people to reclaim control over their well-being by making mood and symptom tracking simple, convenient, and accessible to all. ",
+      "link": "https://play.google.com/store/apps/details?id=com.bearable",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/WmtoPabPSRKhtXD5WCMkk/4b22853bfb59028e44980e83193e0e4f/Cat_2_-_Bearable.png",
+        "imageTitle": "Cat 2 - Bearable"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "65wwfeZ8hs7SBx8Ouajw0x",
+      "title": "Bearable",
+      "contentTypeId": "resource",
+      "slug": "bearable"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "252LW2kib7dqWqSuJkK2ft",
+      "title": "Useful apps and links",
+      "contentTypeId": "category",
+      "slug": "useful-apps-and-links"
+    },
+    {
+      "shortDesc": "The Feeling Good app is accredited by NHS digital - a mark of its effectiveness, safety and good function.",
+      "longDesc": "Relax your body and mind with a series of audio tracks designed to help you build confidence, energy and a positive mindset.",
+      "link": "https://play.google.com/store/apps/details?id=uk.co.positiverewards.feelgood&hl=en_GB",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2MJ6twOUDD1DllgE7cCfPZ/db196cc64be49ce41f31ed9a608fc2dd/Cat_2_-_Feeling_good.png",
+        "imageTitle": "Cat 2 - Feeling good"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "5pVximeAZvSYHfnmn2jsSe",
+      "title": "Feeling Good",
+      "contentTypeId": "resource",
+      "slug": "feeling-good"
+    },
+    {
+      "shortDesc": "Catch It is a joint project between the Universities of Liverpool and Manchester, to help users better understand their moods through use of an ongoing diary.",
+      "longDesc": "Learn how to manage feelings like anxiety and depression with Catch It. The app will teach you how to look at problems in a different way, turn negative thoughts into positive ones and improve your mental wellbeing.",
+      "link": "https://play.google.com/store/apps/details?id=uk.ac.liv.catchit&amp;hl=en_GB",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3K9oJFSynvxMkdNYZzSbRs/7e8e5cfa630fedae83abfa6a736eb083/Cat_2_-_Catch_it.png",
+        "imageTitle": "Cat 2 - Catch it"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "Ak2OLhKJvpybQ7nBS4MQL",
+      "title": "Catch It ",
+      "contentTypeId": "resource",
+      "slug": "catch-it"
+    },
+    {
+      "shortDesc": "Hub of Hope believes that no matter what you're going through, you shouldn't have to do it alone. Find services local to you using geolocation technology.",
+      "longDesc": "UK’s leading mental health support database. It is provided by national mental health charity, Chasing the Stigma, and brings local, national, peer, community, charity, private and NHS mental health support and services together in one place for the first time.",
+      "link": "https://play.google.com/store/apps/details?id=com.chasingthestigma.hubofhope&gl=GB&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5HnpCivGe2yZQdsdWyINYA/9cfc0031c958e6d42a25fe7646446e82/Cat_2_-_hub-of-hope-app.jpg",
+        "imageTitle": "Cat 2 - hub-of-hope-app"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "5rgEZcl3X5tuvqOmkynnO7",
+      "title": "Hub of Hope",
+      "contentTypeId": "resource",
+      "slug": "hub-of-hope"
+    },
+    {
+      "shortDesc": "Atmosphere: Relaxing Sounds - Rain & Sleep sounds",
+      "longDesc": "Atmosphere is the perfect app to relax. Enjoy a variety of relaxing sounds divided into different environments.",
+      "link": "https://play.google.com/store/apps/details?id=com.peakpocketstudios.atmosphere",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2D6K5rJbfmKFmIbqlNyywU/1a55daf036ce0b7b38a1a04588174f3a/Atmosphere.jpg",
+        "imageTitle": "Atmosphere"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "60E0gVcP4H1BYElhIjXW05",
+      "title": "Atmosphere",
+      "contentTypeId": "resource",
+      "slug": "atmosphere"
+    },
+    {
+      "shortDesc": "Aura: Meditations, Sleep & Mindfulness",
+      "longDesc": "Aura helps you transform your wellbeing & sleep with the world's most personalised, all-in-one app for mental wellness.",
+      "link": "https://play.google.com/store/apps/details?id=com.aurahealth",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2vWPd5YJxdwupJPJdDZwKs/e24b61d9ae5e1aa25c5d98bfd0b0c4db/Cat_2_-_Aura.png",
+        "imageTitle": "Cat 2 - Aura"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "1qykFLwxzEsvoVPwmhCACC",
+      "title": "Aura",
+      "contentTypeId": "resource",
+      "slug": "aura"
+    },
+    {
+      "shortDesc": "Concerned about self-harming? Feeling suicidal? Not sure what to do next? Then this app is for you.",
+      "longDesc": "The distrACT app gives you easy, quick and discreet access to information and advice about self-harm and suicidal thoughts. The content has been created by doctors and experts in self-harming and suicide prevention.",
+      "link": "https://play.google.com/store/apps/details?id=com.expertselfcare.selfharm&hl=en_GB",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6RsSgLpBQsK4GMUNtRZhwd/fd7bcfc18765e2d42d1323796ae7adb6/Cat_2_-_Distract.png",
+        "imageTitle": "Cat 2 - Distract"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "3i8q4rVX2qWZmzVBrJBPaX",
+      "title": "distrACT",
+      "contentTypeId": "resource",
+      "slug": "distract"
+    },
+    {
+      "shortDesc": "Find information and support for your mental health.",
+      "longDesc": "Find information and support for your mental health.",
+      "link": "https://www.nhs.uk/mental-health/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "imageTitle": "Placeholder Icon"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "114vOas1QW00L7ydBD22MG",
+        "categoryTitle": "Education and Awareness"
+      },
+      "contacts": [],
+      "id": "1RG0CDAvrdhpIobu6uoVJS",
+      "title": "NHS Mental Health",
+      "contentTypeId": "resource",
+      "slug": "nhs-mental-health"
+    },
+    {
+      "shortDesc": "Reflectly: Diary, Gratitude Journal & Mood Tracker",
+      "longDesc": "The number one journalling app that’s like your best friend. Vent your thoughts & feelings to track your mood & increase happiness. Get daily insights & explore how you feel with your own digital diary.",
+      "link": "https://play.google.com/store/apps/details?id=com.reflectlyApp",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4sw868vaPtfKSgBMOpVHWY/3825443f834b0fc12d2b2d52a7618ad1/Cat_2_-_Reflectly.png",
+        "imageTitle": "Cat 2 - Reflectly"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "5ZeyQQnDYnDtlpnnOCtnej",
+      "title": "Reflectly",
+      "contentTypeId": "resource",
+      "slug": "reflectly"
+    },
+    {
+      "shortDesc": "Calm Harm - manages self harm",
+      "longDesc": "Calm Harm is an app designed to help people resist or manage the urge to self-harm. It's private and password protected.",
+      "link": "https://play.google.com/store/apps/details?id=uk.org.stem4.calmharm&amp;hl=en_GB",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4WPuXH7pgp8IwBmmKjydAM/21447fbf2b4dd0c371dace36475a555c/Cat_2_-_Calm_Harm.png",
+        "imageTitle": "Cat 2 - Calm Harm"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental health & wellbeing"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "1pTbPzfr9buHvQScG2kgCr",
+      "title": "Calm Harm",
+      "contentTypeId": "resource",
+      "slug": "calm-harm"
+    },
+    {
+      "shortDesc": "Routes of Use: Boofing",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, covers boofing (sometimes called “plugging” or “booty bumping”). The health educator will teach you about how a high works when a substance is boofed, list some commonly boofed substances, ",
+      "link": "https://youtu.be/KkVxINKTU8E",
+      "subCategory": "Routes of use",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6uc8R760aiz8dESMYt5ztF/e4eb358e1e06fad0af16657d9a4e603f/Cat_2_-_Booty_bumping.jpg",
+        "imageTitle": "Cat 2 - Booty bumping"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "1IYb2YUrL2kuSCNqokszIp",
+      "title": "Booty bumping",
+      "contentTypeId": "resource",
+      "slug": "booty-bumping"
+    },
+    {
+      "shortDesc": "Injection Technique: Veins vs. Arteries",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, covers veins and arteries in the context of substance use. The health risks associated with hitting an artery (instead of a vein) when mainlining (injecting intravenously) are discussed, and methods of prevention and self-care are provided.",
+      "link": "https://youtu.be/g-SutNCx2Y0",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6OiU9AIgSKfWZyzbA6rDLY/b7e04a0ad05b93d020f52db344e546a1/Cat_2__veins.vs_.arteries.jpg",
+        "imageTitle": "Cat 2 veins.vs .arteries"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "5eCdoHzeObwBE7yyzw2sIr",
+      "title": "Injection technique: veins vs. arteries",
+      "contentTypeId": "resource",
+      "slug": "injection-technique-veins-vs-arteries"
+    },
+    {
+      "shortDesc": "Injection Related Injuries: Vein Collapse",
+      "longDesc": "This presentation covers vein collapse, a potentially dangerous injury which can result from injection drug use. The causes and health risks associated with vein collapse are discussed and methods of prevention are provided. Brought to you by MaineGeneral’s Community Health Department.",
+      "link": "https://youtu.be/zQZIXQ7zREc",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7eC8n3GBtnR1t1b23Nc6Vc/6efa01306dd48d9bebde3a82f058edfd/Cat_2_-_Vein_Care.png",
+        "imageTitle": "Cat 2 - Vein Care"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "6FgGfaltQjR5aRiNngJF9",
+      "title": "Injection related injuries: vein collapse",
+      "contentTypeId": "resource",
+      "slug": "injection-related-injuries-vein-collapse"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "79cibMzGYPKy4sb0vdNz1U",
+      "title": "Alcohol & other drugs",
+      "contentTypeId": "topic",
+      "slug": "alcohol-and-other-drugs"
+    },
+    {
+      "shortDesc": "MAT Standards implementation explained.",
+      "longDesc": "How the rapid implementation of the new standards can help save lives.\nEveryone who needs treatment should expect the same response wherever they are in Scotland. \nWorking to ensure access to the right treatment, when it’s needed, and where its needed, marks a step-change in tackling drug-related deaths.",
+      "link": "https://youtu.be/A_jrB8JbyEQ",
+      "subCategory": "Drugs death taskforce",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "imageTitle": "Placeholder Icon"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "4Fqp0LMlWmZsRrEOPqhebB",
+      "title": "MAT Standards Implementation",
+      "contentTypeId": "resource",
+      "slug": "mat-standards-implementation"
+    },
+    {
+      "shortDesc": "Meeting the Benzodiazepines Challenge",
+      "longDesc": "Benzodiazepines and unregulated ‘Street’ Benzo’s are costing lives in Scotland.  What can we do to address this and tackle the rising danger of poly-drug use?",
+      "link": "https://youtu.be/mmnssK-UhUQ",
+      "subCategory": "Drugs death taskforce",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "imageTitle": "Placeholder Icon"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "6DZgbS43MWVJUDtR8QCaeZ",
+      "title": "Addressing the rise of benzodiazepines",
+      "contentTypeId": "resource",
+      "slug": "addressing-the-rise-of-benzodiazepines"
+    },
+    {
+      "shortDesc": "What are MAT Standards; Why do they matter?",
+      "longDesc": "How establishing best practice in Medication Assisted treatment, and making it widely available across Scotland, can reduce the risk of fatal overdose.",
+      "link": "https://youtu.be/RKoqTuINlfM",
+      "subCategory": "Drugs death taskforce",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "imageTitle": "Placeholder Icon"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "20c0gcNoFQ7DC8Qo7S3Buk",
+      "title": "What are MAT standards?",
+      "contentTypeId": "resource",
+      "slug": "what-are-mat-standards"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "1BbdpSQQJHW2PdXKvVrjkp",
+      "title": "Helplines",
+      "contentTypeId": "category",
+      "slug": "helplines"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "4gjIGNmTnfadZGPcXC2ShH",
+      "title": "Recovery communities and online groups",
+      "contentTypeId": "category",
+      "slug": "recovery-communities-and-online-groups"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "114vOas1QW00L7ydBD22MG",
+      "title": "Education and Awareness",
+      "contentTypeId": "category",
+      "slug": "education-and-awareness"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "3TblHAaC7fF9D2yn9yUjoX",
+      "title": "Video resources",
+      "contentTypeId": "category",
+      "slug": "video-resources"
+    },
+    {
+      "shortDesc": "Honest information about drugs",
+      "longDesc": "If you or someone else needs urgent help after taking drugs or drinking, call 999 for an ambulance. Tell the crew everything you know. It could save their life.",
+      "link": "https://www.talktofrank.com/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/69Z9lwDI5Lk6aT5jVawxy2/cb7e7c25bb4ccfa6cb04a121cfc1eb5e/Cat_6_-_Frank.jpg",
+        "imageTitle": "Cat 6 - Frank"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "72l4717RteKN2UufQDElt6",
+          "organisation": "FRANK",
+          "contactNumber": "0300 1236600"
+        }
+      ],
+      "id": "25otZutMOejs9g5yZRc17n",
+      "title": "Talk to Frank",
+      "contentTypeId": "resource",
+      "slug": "talk-to-frank"
+    },
+    {
+      "shortDesc": "People come to AA through many different means... choose the path that best suits you. If you prefer e-mail as a means of contact then feel free to email us at help@aamail.org",
+      "longDesc": "Help and support for anyone experiencing problems with alcohol use.",
+      "link": "https://www.alcoholics-anonymous.org.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5Dzrl1Dk8CJjGgmGDQTECd/8ff3fe5e47a0a36a863aac9eb28a353f/Cat_3_-_AA.png",
+        "imageTitle": "Alcoholics Anonymous"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "6vrK6iswXWgS2DxRgZeTkD",
+          "organisation": "Alcoholics Anonymous",
+          "contactNumber": "Freephone helpline: 0800 9177 650"
+        }
+      ],
+      "id": "15CEcvFg8CXOlolW7o7G1z",
+      "title": "Alcoholics Anonymous",
+      "contentTypeId": "resource",
+      "slug": "alcoholics-anonymous"
+    },
+    {
+      "shortDesc": "We are here to support you if you are concerned about someone else’s alcohol or drug use. We can chat, offer advice and information, and link you either into our own services or services local to you.",
+      "longDesc": "If you are concerned about someone else's alcohol or drug use, contact our Helpline today. Open 9am-11pm weekdays and a call-back service on weekends. Also available by email helpline@sfad.org.uk and webchat.",
+      "link": "https://www.sfad.org.uk/support-services/helpline",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2M9tlmh98E2DZyxTaxYxb9/fc1c3e8449df0ad9dd7eb7409253ee85/Cat_6_-_Scottish_Families.png",
+        "imageTitle": "Cat 6 - Scottish Families"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "5z62jPLfNM3sBbcNO31ES7",
+          "organisation": "Scottish Families",
+          "contactNumber": "08080 10 10 11"
+        }
+      ],
+      "id": "3dBesNXjclFmuzvtC2KEbV",
+      "title": "Scottish Families Affected by Alcohol and Drugs",
+      "contentTypeId": "resource",
+      "slug": "scottish-families-affected-by-alcohol-and-drugs"
+    },
+    {
+      "shortDesc": "Help and Advice",
+      "longDesc": "Release provides a free confidential and non-judgemental national information and advice service in relation to drugs and drug laws. ",
+      "link": "https://www.release.org.uk/helpline",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3PDA0NL6NDbHyUUcRPVdoF/6e58863a3294123c0cd2e8b4205d35a5/Cat_6_-_Release.jpg",
+        "imageTitle": "Cat 6 - Release"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "6QtBZ2BJvMT0Lk8Eh63zje",
+          "organisation": "Release",
+          "contactNumber": " 020 7324 2989"
+        }
+      ],
+      "id": "1HtrONjig2mxm1kRoSpNQj",
+      "title": "Release",
+      "contentTypeId": "resource",
+      "slug": "release"
+    },
+    {
+      "shortDesc": "How to make a great foil pipe (with 45 degree angle tip)",
+      "longDesc": "Exchange Supplies sell packs of foil sheets as a 'reverse transition intervention' to enable drug services to encourage people to move away from injecting routes of drug administration.\n",
+      "link": "https://youtu.be/qRhrtCcbowE",
+      "subCategory": "Routes of use",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3azYvoJTuadDSZ5ONUozmK/bd31a2a3af68471fb64741977ae19549/Cat_2_-_Smoking.jpg",
+        "imageTitle": "Cat 2 - Smoking"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "4684DBsK0txRKRhhppTmoR",
+      "title": "How to make a foil pipe",
+      "contentTypeId": "resource",
+      "slug": "how-to-make-a-foil-pipe"
+    },
+    {
+      "shortDesc": "Experience, Strength and Hope",
+      "longDesc": "Peer-manned helpline available 8am - 11pm 7 days a week who can assist you in finding a meeting or just talk with you.",
+      "link": "https://www.cascotland.org.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4TTtdjgeSt7zxwq4oBCpu/a3f09986497eb3dbf16c8a2f17b93859/Cat_6_-_NA.jpg",
+        "imageTitle": "Cat 6 - NA"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "MP9Qczw1NIASRYogSRBL8",
+          "organisation": "Cocaine Anonymous",
+          "contactNumber": "0141 959 6363"
+        }
+      ],
+      "id": "4NDXcIcjCt2E3o1ja7OMQ4",
+      "title": "Cocaine Anonymous Helpline",
+      "contentTypeId": "resource",
+      "slug": "cocaine-anonymous-helpline"
+    },
+    {
+      "shortDesc": "Connects people who use drugs with community members when they are vulnerable to overdose.",
+      "longDesc": "Connects people who use drugs with community members when they are vulnerable to overdose.",
+      "link": "https://play.google.com/store/apps/details?id=coop.brave.besafe",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7xKiOVwbcPQnIEDCxv7qgF/bb8a3a3c074799046ab9cda2802c918a/Cat_4_Brave.png",
+        "imageTitle": "Cat 4 Brave"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "7Jgu5tWDHZlRKteXWWrbwL",
+      "title": "Brave",
+      "contentTypeId": "resource",
+      "slug": "brave"
+    },
+    {
+      "shortDesc": "Pill reports, drug profiles & safer use advice.",
+      "longDesc": "Pill reports, drug profiles & safer use advice.",
+      "link": "https://play.google.com/store/apps/details?id=cc.phk.knowdrugs",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7rCK4UspwOi2d8sdRNbOBt/d84963292f8ddb2df1755ad00861a090/Cat_4_-_Know_drugs.png",
+        "imageTitle": "Cat 4 - Know drugs"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "6gJcMVjW9JCR02tkJg6anZ",
+      "title": "KnowDrugs",
+      "contentTypeId": "resource",
+      "slug": "knowdrugs"
+    },
+    {
+      "shortDesc": "Free, confidential helpline and live chat option for those seeking help with alcohol use. ",
+      "longDesc": "Free, confidential helpline and live chat option for those seeking help with alcohol use. ",
+      "link": "https://www.alcoholics-anonymous.org.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5XfAbyRDj3ivXujywaVdy6/99d87c686bb1a6c7570492a0773b6a82/Cat_6_-_AA.png",
+        "imageTitle": "Cat 6 - AA"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [
+        {
+          "contactId": "6uw3b4X9w0CecPApid2Tkk",
+          "organisation": "Alcoholics Anonymous",
+          "contactNumber": "0800 9177 650"
+        }
+      ],
+      "id": "1zozNyxkDSINZIr4Yz6tCj",
+      "title": "Alcoholics Anonymous Helpline",
+      "contentTypeId": "resource",
+      "slug": "alcoholics-anonymous-helpline"
+    },
+    {
+      "shortDesc": "Our team is online to offer you free, confidential advice with drugs or alcohol.",
+      "longDesc": "Confidential online chat online Monday - Friday 9am to 9pm, Saturday - Sunday 10am to 4pm. You can still message the service outside of these hours, they will get back to you as soon as possible.",
+      "link": "https://www.wearewithyou.org.uk/help-and-advice/about-our-online-chat/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5GTzXUDuqWfIxdNJ2OmhZ1/8a73e137cf9f437fc325892cd70af1a2/Cat_6_WAWY.png",
+        "imageTitle": "Cat 6 WAWY"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "1BbdpSQQJHW2PdXKvVrjkp",
+        "categoryTitle": "Helplines"
+      },
+      "contacts": [],
+      "id": "4lskItrhwEkvfy9alxvfBs",
+      "title": "We Are With You",
+      "contentTypeId": "resource",
+      "slug": "we-are-with-you"
+    },
+    {
+      "shortDesc": "Routes of use: Ingestion",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, covers ingestion (swallowing). The health educator will teach you about how a high works when a substance is ingested, list some commonly ingested substances, discuss some of the risks associated with ingestion, and provide you with harm reduction techniques.",
+      "link": "https://youtu.be/HzVvAyOdU7g",
+      "subCategory": "Routes of use",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2ws1qoGQ77Tvptqp9UCb2J/0254fa4177545a8a0318fff5b7237782/Cat_2_-_injestion.jpg",
+        "imageTitle": "Cat 2 - injestion"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "5ccvG9yCwb1gx5fvK9fCxu",
+      "title": "Ingestion",
+      "contentTypeId": "resource",
+      "slug": "ingestion"
+    },
+    {
+      "shortDesc": "We offer Alcohol Counselling, Group work and deliver Alcohol Brief Interventions in Glasgow and surrounding areas. We offer introductory to advanced level Training Courses.",
+      "longDesc": "A voluntary organisation working with individuals, families and communities to promote health and wellbeing. GCA offer direct support for people to abstain from alcohol or reduce their alcohol consumption, provide training and education and work in partnership with communities and other agencies to achieve our main aim of reducing the harm caused by alcohol and drugs.\n",
+      "link": "https://www.glasgowcouncilonalcohol.org/contact-us/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5HbDtZ6mL4nPX9yuWTjU9M/fb08bf4dea7f300e580e194e1ef07115/Cat_3_-_GCA.png",
+        "imageTitle": "Cat 3 - GCA"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "5cp3KpvaRur7sCMLOHBlwo",
+          "organisation": "Glasgow Council on Alcohol",
+          "contactNumber": "0141 353 1800",
+          "addressLine1": "14 North Claremont Street ",
+          "city": "Glasgow ",
+          "postcode": "G3 7LE"
+        }
+      ],
+      "id": "GzsPAP0gRM2MTwEPNYvRh",
+      "title": "Glasgow Council on Alcohol",
+      "contentTypeId": "resource",
+      "slug": "glasgow-council-on-alcohol"
+    },
+    {
+      "shortDesc": "Find out about the different kinds of support we offer and what to expect when you come into one of our services",
+      "longDesc": "Free and confidential services for individuals, families and communities affected by drugs and alcohol.\n",
+      "link": "https://www.wearewithyou.org.uk/services/?query=glasgow",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/bEcJscR3WalPUJhp9noY1/1b3ba2add8930747a75186a7929b25d1/Cat_3_NWERC.png",
+        "imageTitle": "Cat 3 NWERC"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "6ugltyiTiupL8hfua0sGyR",
+          "organisation": "Glasgow Recovery Hub",
+          "location": "North East",
+          "contactNumber": "0808 164 4261",
+          "addressLine1": "24-28 Broad Street",
+          "addressLine2": "Bridgeton",
+          "city": "Glasgow,",
+          "country": "UK"
+        },
+        {
+          "contactId": "37Mpo6tI5jLqAVxyn1yCtg",
+          "organisation": "Glasgow Recovery Hub",
+          "location": "North West",
+          "contactNumber": "0141 221 3382 ",
+          "addressLine1": "The Quadrangle, Unit 2",
+          "addressLine2": "59 Ruchill Street",
+          "city": "Glasgow",
+          "postcode": "G20 9PX",
+          "country": "UK"
+        }
+      ],
+      "id": "4bMnadKrqCVIbn75kswSq",
+      "title": "North West/North East Glasgow Recovery Hub",
+      "contentTypeId": "resource",
+      "slug": "north-west-north-east-glasgow-recovery-hub"
+    },
+    {
+      "shortDesc": "AlcoDroid is an alcohol consumption tracker, drinks diary and blood alcohol content calculator.",
+      "longDesc": "AlcoDroid is an alcohol consumption tracker, drinks diary and blood alcohol content calculator.",
+      "link": "https://play.google.com/store/apps/details?id=org.M.alcodroid",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3jKhKTdDajxxUUa7apQJdI/2ad9f0755063b92f4a55197a5e10073d/Cat_4_-_Alcodroid.png",
+        "imageTitle": "Cat 4 - Alcodroid"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "3wzOoMBd4LLmF5o63Pn31y",
+      "title": "Alcodroid",
+      "contentTypeId": "resource",
+      "slug": "alcodroid"
+    },
+    {
+      "shortDesc": "Together We Recover ",
+      "longDesc": "A peer led voluntary organisation that provides a variety of recovery initiatives within North East Glasgow. ",
+      "link": "https://www.north-east-recovery-community.co.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3RlKOYZgE5wh2xrrRXygXt/a02da97bc7ff1672f34c45d4dd59db16/Cat_-_3_NERC.png",
+        "imageTitle": "Cat - 3 NERC"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "64lzDgDR7bPR43VzLmFqdu",
+          "organisation": "North East Recovery Community ",
+          "contactNumber": "0141 556 3951 / 07522347946",
+          "addressLine1": "37 Main Street",
+          "addressLine2": "Bridgeton",
+          "postcode": "G40 1QB"
+        }
+      ],
+      "id": "4Z8y5XyA4B2yAMzTSsA75L",
+      "title": "North East Recovery Community ",
+      "contentTypeId": "resource",
+      "slug": "north-east-recovery-community"
+    },
+    {
+      "shortDesc": "South Glasgow Alcohol & Drug Recovery Hub",
+      "longDesc": "Offers a friendly, flexible support service to individuals experiencing problematic alcohol or substance use. ",
+      "link": "https://www.themungofoundation.org.uk/service/sgad-recovery-hub/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2NPCagNz7kDD9Y34ogYvCP/59f7a38037c7756d37bed71f1cb7e3b2/Cat_3_-_the_mungo_foundation.png",
+        "imageTitle": "Cat 3 - the mungo foundation"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "6Csak883vlmaDmdHZKxlNd",
+          "organisation": "South Community Recovery Hub",
+          "contactNumber": "0141 423 5872",
+          "addressLine1": "1st Floor 63 Carlton Place",
+          "city": "Glasgow ",
+          "postcode": "G5 9TW"
+        }
+      ],
+      "id": "3eIrzDkLOZtBtZA58JVOWh",
+      "title": "South Community Recovery Hub",
+      "contentTypeId": "resource",
+      "slug": "south-community-recovery-hub"
+    },
+    {
+      "shortDesc": "Cocaine Anonymous is a fellowship of men and women who share their experience, strength and hope with each other, so that they may solve their common problem and help others to recover from their addiction.",
+      "longDesc": "Help and support for anyone who wants to stop using cocaine.",
+      "link": "https://www.cascotland.org.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6yOTOapKffMpu5zLhMZbsp/96bf24598c439f720aa60f23a01592f4/Cat_3_-_CA.jpeg",
+        "imageTitle": "Cat 3 - CA"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "1OWpyvfdTPSwycingMavkd",
+          "organisation": "Cocaine Anonymous",
+          "contactNumber": "Helpline: 0141 959 6363 (8am to 11pm daily)"
+        }
+      ],
+      "id": "1yWSAsUFCcSeoFtQp4gnZr",
+      "title": "Cocaine Anonymous",
+      "contentTypeId": "resource",
+      "slug": "cocaine-anonymous"
+    },
+    {
+      "shortDesc": "Routes of Use: Smoking",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, covers smoking. The health educator will teach you about how a high works when a substance is smoked, list some commonly smoked substances, discuss some of the risks associated with smoking, and provide you with harm reduction techniques.",
+      "link": "https://youtu.be/NtwLHbl8SjQ",
+      "subCategory": "Routes of use",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3azYvoJTuadDSZ5ONUozmK/bd31a2a3af68471fb64741977ae19549/Cat_2_-_Smoking.jpg",
+        "imageTitle": "Cat 2 - Smoking"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "5gjCkTXPn1ejyB8PnmURbh",
+      "title": "Smoking",
+      "contentTypeId": "resource",
+      "slug": "smoking"
+    },
+    {
+      "shortDesc": "How to avoid a stimulant overdose",
+      "longDesc": "To mark international Overdose Day, Youth RISE has produced this educational video covering:\nWhat can cause a stimulant overdose?\nHow do you spot a stimulant overdose?\nTips to avoid a stimulant overdose",
+      "link": "https://youtu.be/ARhPe7KRrV4",
+      "subCategory": "Overdose awareness",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6WFcXrOY9LJiAYKlxaZsr7/05ef30f4d9e0feb72bd32106b57a5410/Cat_2_-_stimulant.jpg",
+        "imageTitle": "Cat 2 - stimulant"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "36IOoF40GEoxZnp0HdQJXZ",
+      "title": "How to avoid a stimulant overdose",
+      "contentTypeId": "resource",
+      "slug": "how-to-avoid-a-stimulant-overdose"
+    },
+    {
+      "shortDesc": "We are Narcotics Anonymous in the United Kingdom & Channel Islands. If you have a problem with drugs, we are recovering drug addicts who can help you get and stay clean.",
+      "longDesc": "Support for anyone who wants to stop using drugs.",
+      "link": "https://ukna.org/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3OnsFNsj8PiXxjooljn3mq/5b1be8525f840d7eb6ddac7d564d548c/Cat_3_-_NA.png",
+        "imageTitle": "Narcotics Anonymous"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "7mf4WCQR4cewts63bF6Cm4",
+          "organisation": "Narcotics Anonymous",
+          "contactNumber": "Helpline: 0300 999 1212 (10am to midnight daily)"
+        }
+      ],
+      "id": "4A1CO6mOBRuUhdkLLnWrca",
+      "title": "Narcotics Anonymous",
+      "contentTypeId": "resource",
+      "slug": "narcotics-anonymous"
+    },
+    {
+      "shortDesc": "Animation of naloxone",
+      "longDesc": "Video © Copyrights SDF. 2020.\n",
+      "link": "https://youtu.be/NUcf4RErCck",
+      "subCategory": "Overdose awareness",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4FfAk74PI9NYwHiBLEjbmK/3a16e1138c0fcbe6e5a420b1c9b99007/Cat_2_-_Naxolone.jpg",
+        "imageTitle": "Cat 2 - Naxolone"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "12nj0fDmaZB5Lbqppp3rxJ",
+      "title": "Naloxone",
+      "contentTypeId": "resource",
+      "slug": "naloxone"
+    },
+    {
+      "shortDesc": "A mobile application designed to reduce the harms associated with the use of psychoactive substances. Provides reliable and honest information about drugs.",
+      "longDesc": "A mobile application designed to reduce the harms associated with the use of psychoactive substances. Provides reliable and honest information about drugs.",
+      "link": "https://play.google.com/store/apps/details?id=com.tripapp.substancesapp",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7mNiZ2hysXgNOvqeciYy1b/fc04ac9061100bd8137a4b07eb0264f9/Cat_4_-_Trip_app.png",
+        "imageTitle": "Cat 4 - Trip app"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "3q6XfwOsHqfVkPvvZ02Knb",
+      "title": "TrippApp",
+      "contentTypeId": "resource",
+      "slug": "trippapp"
+    },
+    {
+      "shortDesc": "How much citric? - the citric / heroin reaction",
+      "longDesc": "A short film explaining the reaction that takes place when an acid is added to water in order to dissolve brown heroin. Essential viewing for everyone who injects heroin, and those who work with them. Now with subtitles, so you can watch it on silent.",
+      "link": "https://youtu.be/e_hlxbW1v20",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/1QBBXdeeydbcmZJVN2VV9N/b0eb9fda4c00ab2688e92bf2a52fdb2a/Cat_2_-_Citric.jpg",
+        "imageTitle": "Cat 2 - Citric"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "6k6Nhemgc2KerichVC30xs",
+      "title": "How much Citric? The Citric/Heroin Reaction",
+      "contentTypeId": "resource",
+      "slug": "how-much-citric-the-citric-heroin-reaction"
+    },
+    {
+      "shortDesc": "Track and moderate your use of alcohol, caffeine and other recreational drugs.",
+      "longDesc": "Track and moderate your use of alcohol, caffeine and other recreational drugs.",
+      "link": "https://play.google.com/store/apps/details?id=io.doseapp.android",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7mPa8wrlAJ0cyNYjyMswEY/7bfd610f5e8f078cf705e668a7bdbc93/Cat_4_-_Dose.png",
+        "imageTitle": "Cat 4 - Dose"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "49hJoYPDZivsjg4n2eOo9g",
+      "title": "Dose - Drug Journal",
+      "contentTypeId": "resource",
+      "slug": "dose-drug-journal"
+    },
+    {
+      "shortDesc": "How to Inject Into a Vein",
+      "longDesc": "Injecting medication into a vein can be difficult and should not be attempted without professional guidance. When injecting into a vein, you may need to increase access to the vein by making it more visible. Use sterile equipment and inject the medication with the flow of blood.",
+      "link": "https://youtu.be/aCI99wMVJMo",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3u0ZVUKBUrJEVZn8SOnU3M/29752f401a21d24e3b01f6a5335430f0/cat_2_-_safe_injecting.png",
+        "imageTitle": "cat 2 - safe injecting"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "2BjlSRZ6FbtklNVRSPN7e3",
+      "title": "Injecting into a Vein",
+      "contentTypeId": "resource",
+      "slug": "injecting-into-a-vein"
+    },
+    {
+      "shortDesc": "Oor Willie's Peer Support Life / Recovery Group & wave 70/30 Edinburgh Hub",
+      "longDesc": "Peer support and addiction based support group for all to come together and offer support. Willie does a live chat every Wednesday and Saturday at 8pm guaranteed, with other sessions randomly throughout the week for you to come along and be a part of a community. ",
+      "link": "https://www.facebook.com/groups/2828251300781874/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3wtdDKdkXbL17xyJwYkoOR/b67b551604b78019a471feb0aac4e517/Cat_3_-_Oor_Willie.jpg",
+        "imageTitle": "Cat 3 - Oor Willie"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [],
+      "id": "5Ttf28h9yPW27hzvFdo27N",
+      "title": "Oor Willie's peer support",
+      "contentTypeId": "resource",
+      "slug": "oor-willies-peer-support"
+    },
+    {
+      "shortDesc": "Safer Injecting: Vein Care Tips for People Who Use Injection Drugs",
+      "longDesc": "This 5-part video series presents vein care tips for people who use injection drugs. Using a harm reduction approach, we talk about the planning, supplies, setup, and aftercare for safer injecting. ",
+      "link": "https://youtu.be/VODRpwKhvrM",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4u3tBLvFI04TxmKW9EfdX0/9f7eeb1fa02983e935353eb72d3b3071/Cat_2_-_Vein_Care.png",
+        "imageTitle": "Cat 2 - Vein Care"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "4FLPfg1UQpFcZtWacuhNFp",
+      "title": "Vein Care Tips for People who Inject Drugs",
+      "contentTypeId": "resource",
+      "slug": "vein-care-tips-for-people-who-inject-drugs"
+    },
+    {
+      "shortDesc": "Advice on harm reduction, safer drug use, naloxone, recognising/responding to overdose.",
+      "longDesc": "Advice on harm reduction, safer drug use, naloxone, recognising/responding to overdose.",
+      "link": "https://play.google.com/store/apps/details?id=com.faffdigital.hoper",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/5lNVmW9NF4d0xcRQopeVsx/739882a55aa6cd8fe91ff0adda419e03/Caqt_4_-_The_hope_app.png",
+        "imageTitle": "Caqt 4 - The hope app"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "252LW2kib7dqWqSuJkK2ft",
+        "categoryTitle": "Useful apps and links"
+      },
+      "contacts": [],
+      "id": "1VYPG8o4CwQ6X94KaI23tV",
+      "title": "Highland Overdose Prevention and Engagement",
+      "contentTypeId": "resource",
+      "slug": "highland-overdose-prevention-and-engagement"
+    },
+    {
+      "shortDesc": "Connecting Communities in Recovery",
+      "longDesc": "North West Recovery Communities is a community led partnership of people and services who are passionate about promoting recovery from Alcohol and Drugs. The partnership promotes that “Recovery is Possible” through a range of activities.",
+      "link": "https://www.nwrc-glasgow.co.uk/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3BCrDLe6Vz6DvgATwKtSS3/6035765d692532d8990cd89fd4a0b96a/Cat_3_-_NWRC.jpg",
+        "imageTitle": "Cat 3 - NWRC"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "4gjIGNmTnfadZGPcXC2ShH",
+        "categoryTitle": "Recovery communities and online groups"
+      },
+      "contacts": [
+        {
+          "contactId": "65vX3RMQ19RCLU8jFoMYEL",
+          "organisation": "North West Recovery Community",
+          "contactNumber": "0141 328 4578",
+          "addressLine1": "80 St Vincent Terrace",
+          "city": "Glasgow",
+          "postcode": "G3 8DX",
+          "country": "UK"
+        }
+      ],
+      "id": "3pzZqx2dLKM0W9bP8zpP5E",
+      "title": "North West Recovery Community",
+      "contentTypeId": "resource",
+      "slug": "north-west-recovery-community"
+    },
+    {
+      "shortDesc": "Injection Technique: Step-by-Step Guide to Mainlining",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, provides a step-by-step walk-through of a mainline (intravenous) injection. Hygiene, materials, substance prep, site prep, injection form, and aftercare are all discussed, and a medical-grade prosthetic arm is used for demonstration.",
+      "link": "https://youtu.be/-tcfQQPQHL8",
+      "subCategory": "Safer injecting",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/21Hp5kvDWHMBaOqR7g0I7R/1d7efa950dab88191a13a2ab4f6d76f0/Cat_2_-_mailining.png",
+        "imageTitle": "Cat 2 - mailining"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "WuAGwWxaDEFqs9Y3Wuze0",
+      "title": "Injection Technique: Mainlining",
+      "contentTypeId": "resource",
+      "slug": "injection-technique-mainlining"
+    },
+    {
+      "shortDesc": "Recovery (the recovery position)",
+      "longDesc": "Unique short film showing how to put someone who is unconscious and breathing in the recovery position.",
+      "link": "https://youtu.be/IO9McMD4qh0",
+      "subCategory": "Overdose awareness",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/3cmGaLvgallkM9jhHQJFa0/012766bb9cb54306f16519586575c012/Cat_2_-_recovery_position.png",
+        "imageTitle": "Cat 2 - recovery position"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "3g5vfn2i4dB30IH15gN66O",
+      "title": "The recovery position",
+      "contentTypeId": "resource",
+      "slug": "the-recovery-position"
+    },
+    {
+      "shortDesc": "Injection Technique: Skin Popping",
+      "longDesc": "This presentation, brought to you by MaineGeneral’s Community Health Department, covers skin popping, which is when you consume substances by injecting subcutaneously (into your skin). The health risks associated with skin popping are discussed, and techniques are provided.",
+      "link": "https://youtu.be/9OnRH_U_RqQ",
+      "subCategory": "Safer injecting",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7FjpJjR7W7ZMszBc7OfBZ0/44070a5c6a6ec8f8b2396345f75a6464/Cat_2_-_Skin_Popping.jpg",
+        "imageTitle": "Cat 2 - Skin Popping"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "35dp6WVW2KV5oLsbnQRTEl",
+      "title": "Injection Technique: Skin Popping",
+      "contentTypeId": "resource",
+      "slug": "injection-technique-skin-popping"
+    },
+    {
+      "shortDesc": "This video features animations depicting injecting, please be mindful of any effect this may have on your wellbeing.",
+      "longDesc": "Injecting anything comes with a risk, here are 5 things to know that can reduce that risk. If you want to know more about safer injecting or have questions about drug use in general visit www.touchbase.org.au Australia’s National LGBTI focused Drug, Alcohol and Mental Health resource.",
+      "link": "https://www.youtube.com/embed/SjRxkqXHe0c",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/2mFc8sUuanG4NTM8TwNsne/95d48252adf64b2a8ba901c76f0f0c06/cat_2_-_safe_injecting.png",
+        "imageTitle": "cat 2 - safe injecting"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "74fqx75G4TeLI38a3Cp7wQ",
+      "title": "5 Things to know about safer injecting",
+      "contentTypeId": "resource",
+      "slug": "5-things-to-know-about-safer-injecting"
+    },
+    {
+      "shortDesc": "Cleaning works: how to clean a used syringe",
+      "longDesc": "A simple 'one water, one bleach, one water' cleaning technique based on the science explained in the youtube 'does cleaning syringes work?' and 'hep C survival in syringes'.",
+      "link": "https://youtu.be/SnsK_4gOYHU",
+      "subCategory": "Safer injecting",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7rfixwWnUeqps26SCIRL2q/28e2115c73368ebab4613b2d9a87b9c6/Cat_2_-_How_to_clean_a_syringe.png",
+        "imageTitle": "Cat 2 - How to clean a syringe"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "s2jfOhA2nzDe5x2VWIKwL",
+      "title": "Cleaning works: how to clean a syringe",
+      "contentTypeId": "resource",
+      "slug": "cleaning-works-how-to-clean-a-syringe"
+    },
+    {
+      "shortDesc": "Jane from Exchange Supplies introduces the range of needles that are available, and explains the benefits of using the shortest, thinnest needle to reach the vein. ",
+      "longDesc": "Jane from Exchange Supplies introduces the range of needles that are available, and explains the benefits of using the shortest, thinnest needle to reach the vein.\n\nClick next to find out more about more about how the gauge numbering system works to make choosing the best needle easier.",
+      "link": "https://training.exchangesupplies.org/needle_size_explained-stage_1",
+      "subCategory": "Safer injecting",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/4MeukLumCIQatbCH0BTqKd/d376aa6e6c40900ed9d5a8956ec74260/Cat2_-_needle_sizes.png",
+        "imageTitle": "Cat2 - needle sizes"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "77GyROwnw6FScFLOwaXr4r",
+      "title": "Woman to Woman: Needle sizes explaine",
+      "contentTypeId": "resource",
+      "slug": "woman-to-woman-needle-sizes-explaine"
+    },
+    {
+      "shortDesc": "Woman to Woman: Injecting in the groin",
+      "longDesc": "The video interview with Jane from Exchange Supplies on the next page has been made for women who inject drugs and are currently (or are thinking about) injecting into their femoral vein (going 'in the groin').\n\nIn the film she passes on her experience as someone who last injected into the femoral vein more than 10 years ago, and still has significant and painful leg problems as a result.\n\nViewer discretion is advised.",
+      "link": "https://training.exchangesupplies.org/injecting_in_the_groin-stage_1",
+      "subCategory": "Safer injecting",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/1gFxe8BEn36aoN7gaZTzid/2951195dc655d9e5bb9d12902e37f1f3/cat_2_-_safe_injecting.png",
+        "imageTitle": "cat 2 - safe injecting"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video resources"
+      },
+      "contacts": [],
+      "id": "2blWqi4YvmKGohHGjE2xlU",
+      "title": "Woman to Woman: Injecting in the groin",
+      "contentTypeId": "resource",
+      "slug": "woman-to-woman-injecting-in-the-groin"
+    },
+    {
+      "shortDesc": "Harm reduction works",
+      "longDesc": "This website supports the harm reduction works campaign materials. The campaign was developed by Exchange Supplies for the National Treatment Agency as part of the implementation of the Department of Health publication Reducing Drug Related Harm: An Action Plan. The plan commits to reducing the burden of illness and death caused by illicit drug use through improved surveillance of service provision, improved delivery of harm reduction services, and information campaigns aimed at drug users and drug service providers.",
+      "link": "https://www.harmreductionworks.org.uk/index.html",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/40efvLAO26ZrlUhnV2Tddy/a6e913a661c328eee9229c6f9b4ada41/Cat1_-_General_harm_reduction.png",
+        "imageTitle": "Cat1 - General harm reduction"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "114vOas1QW00L7ydBD22MG",
+        "categoryTitle": "Education and Awareness"
+      },
+      "contacts": [],
+      "id": "79rxeNiMrT9icBMfvIw3cz",
+      "title": "General Harm Reduction information.",
+      "contentTypeId": "resource",
+      "slug": "general-harm-reduction-information"
+    },
+    {
+      "shortDesc": "Needle and Syringe Programme Practitioner Training",
+      "longDesc": "NICE guidance PH52 on the provision of needle and syringe exchange sets out 3 levels of service.\n\nOur certificated training will build to give the workforce free online access to the skills and knowledge needed to deliver effective needle exchange services at all levels.",
+      "link": "https://training.exchangesupplies.org/nsp_training",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/qvihMau3gKNPKPFBdhuBR/e28333559efefe4607def466b5d83c85/Cat1_-_online_resources.jpg",
+        "imageTitle": "online resources"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "114vOas1QW00L7ydBD22MG",
+        "categoryTitle": "Education and Awareness"
+      },
+      "contacts": [],
+      "id": "VPbBS5eSdVeJbm9uFM5Ak",
+      "title": "Online resources and e-learning training for drug use.",
+      "contentTypeId": "resource",
+      "slug": "online-resources-and-e-learning-training-for-drug-use"
+    },
+    {
+      "shortDesc": "BUILDING POWER AND EQUITY WITH PEOPLE WHO USE DRUGS through access, advocacy and action",
+      "longDesc": "National Harm Reduction Coalition creates spaces for dialogue and action that help heal the harms caused by racialized drug policies.",
+      "link": "https://harmreduction.org/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/7caJ1KCETeBo2mGpTfRem3/9c6c5f564dca9a2bda63b761ae87a3d4/Cat1_-_national_harm_reduction.png",
+        "imageTitle": "National harm reduction"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "114vOas1QW00L7ydBD22MG",
+        "categoryTitle": "Education and Awareness"
+      },
+      "contacts": [],
+      "id": "i87279f8NICqwvwFxsUOq",
+      "title": "Resources that promote the health and dignity of people affected by drug use.",
+      "contentTypeId": "resource",
+      "slug": "resources-that-promote-the-health-and-dignity-of-people-affected-by-drug-use"
+    },
+    {
+      "icon": {
+        "iconUrl": "//images.ctfassets.net/dbxigvec8z1m/2yuwGc0I7pJFSp8ZmP7rp6/86fed378b663eb71c6127add6075e6c6/Icon_feather-image.png",
+        "iconTitle": "Placeholder Icon"
+      },
+      "id": "VVy77fG6cib85RWO48iBz",
+      "title": "Sexual health & safeguarding",
+      "contentTypeId": "topic",
+      "slug": "sexual-health-and-safeguarding"
+    },
+    {
+      "shortDesc": "JUST SAY KNOW - Crew is a harm reduction and outreach charity based in Scotland ",
+      "longDesc": "We neither condemn nor condone drug use: we exist to reduce harm, challenge perceptions and help people make positive choices about their use of cannabis, stimulant and other social drugs and sexual health by providing non-judgemental, credible and up to date information and support.",
+      "link": "https://www.crew.scot/drugs-information/",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/01JvmYsK7ejaZ7gvj5rmJE/02e3cdc16f0a37bfd02654683cd84373/Cat1_-_Crew.png",
+        "imageTitle": "Cat1 - CrewCrew 2000"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Alcohol & other drugs"
+      },
+      "category": {
+        "categoryId": "114vOas1QW00L7ydBD22MG",
+        "categoryTitle": "Education and Awareness"
+      },
+      "contacts": [],
+      "id": "2NW71cqCRgf2huoZXYAZdn",
+      "title": "Drugs Information from Crew 2000",
+      "contentTypeId": "resource",
+      "slug": "drugs-information-from-crew-2000"
+    }
+  ]
+}
