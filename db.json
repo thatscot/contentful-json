@@ -29,6 +29,54 @@
       "title": "Switchboard",
       "contentTypeId": "resource",
       "slug": "switchboard"
+    },
+    {
+      "id": "4hwCqL75hCi10iLu1G2Mwe",
+      "title": "Wellbeing",
+      "contentTypeId": "resource",
+      "slug": "wellbeing",
+      "shortDesc": "Self-help materials and courses to help with all sorts of problems you may be facing.",
+      "longDesc": "A variety of self-help materials and courses based on Cognitive Behavioural Therapy (CBT) to help with all sorts of problems that you may be facing.",
+      "link": "https://www.wellbeing-glasgow.org.uk/video-courses",
+      "subCategory": "Other",
+      "isEmbedded": false,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6HrOyEJjHPckJBzznbRLJC/c3d7790a0fcf59a0752509757752b69a/Cat_4_-_Wellbeing.png",
+        "imageTitle": "Cat 4 - Wellbeing"
+      },
+      "topic": {
+        "topicId": "4jC2tp768xIo5Ocg6jjRTw",
+        "topicTitle": "Mental Health & Wellbeing"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video Resources"
+      },
+      "contacts": []
+    },
+    {
+      "id": "36IOoF40GEoxZnp0HdQJXZ",
+      "title": "How to Avoid A Stimulant Overdose",
+      "contentTypeId": "resource",
+      "slug": "how-to-avoid-a-stimulant-overdose",
+      "shortDesc": "Educational video on how to avoid a stimulant overdose.",
+      "longDesc": "To mark international Overdose Day, Youth RISE has produced this educational video covering:\nWhat can cause a stimulant overdose?\nHow do you spot a stimulant overdose?\nTips to avoid a stimulant overdose",
+      "link": "https://youtu.be/ARhPe7KRrV4",
+      "subCategory": "Overdose awareness",
+      "isEmbedded": true,
+      "image": {
+        "imageUrl": "//images.ctfassets.net/dbxigvec8z1m/6WFcXrOY9LJiAYKlxaZsr7/05ef30f4d9e0feb72bd32106b57a5410/Cat_2_-_stimulant.jpg",
+        "imageTitle": "Cat 2 - stimulant"
+      },
+      "topic": {
+        "topicId": "79cibMzGYPKy4sb0vdNz1U",
+        "topicTitle": "Drugs"
+      },
+      "category": {
+        "categoryId": "3TblHAaC7fF9D2yn9yUjoX",
+        "categoryTitle": "Video Resources"
+      },
+      "contacts": []
     }
   ]
 }
